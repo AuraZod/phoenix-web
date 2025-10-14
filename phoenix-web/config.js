@@ -23,7 +23,7 @@ const SITE_CONFIG = {
   
   // Contact Information
   contact: {
-    email: "aura@phoenixreaperesports.com"
+    email: "ceo@phoenixreaperesports.com"
   },
   
   // Meta Information for SEO/Social Sharing
@@ -71,3 +71,4 @@ if (document.readyState === 'loading') {
 } else {
   applyLinks();
 }
+
