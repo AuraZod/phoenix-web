@@ -59,7 +59,7 @@ function applyLinks() {
   });
   
   // Apply email links
-  const emailLinks = document.querySelectorAll('a[href*="mailto:aura@phoenixreaperesports.com"]');
+  const emailLinks = document.querySelectorAll('a[href*="mailto:ceo@phoenixreaperesports.com"]');
   emailLinks.forEach(link => {
     link.href = `mailto:${SITE_CONFIG.contact.email}`;
   });

@@ -205,7 +205,7 @@ Updated all branding and attribution throughout the website.
 For any questions or issues regarding these changes, please contact:
 - **Developer:** AuraZod
 - **Organization:** Phoenix Reaper Esports
-- **Email:** aura@phoenixreaperesports.com
+- **Email:** ceo@phoenixreaperesports.com
 - **Discord:** [Phoenix Reaper Esports Server](https://discord.gg/phoenix-reaper-esports-1274787524895572111)
 
 ---
